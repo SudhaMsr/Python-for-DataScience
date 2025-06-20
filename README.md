@@ -1,5 +1,4 @@
 # Python Lesson Series 🎓
-
 Welcome to the **Python Lesson Series** — a beginner-friendly coding journey based on my YouTube tutorials!
 
 This repository contains code examples and notes from each video.
