@@ -21,7 +21,7 @@ The repo is structured like a course with **Jupyter notebooks**, explanations, a
 * Functions & Scope
 * File Handling
 
-### 2. Intermediate Python
+### 2. Intermediate Python - https://github.com/SudhaMsr/Python-Baiscs
 
 * Object-Oriented Programming (OOP)
 * Modules & Packages
