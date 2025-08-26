@@ -1,14 +1,81 @@
 
+---
 
-# Python Lesson Series 🎓
-Welcome to the **Python Lesson Series** — a beginner-friendly coding journey based on my YouTube tutorials!
+# Python for Data Science
 
-This repository contains code examples and notes from each video.
+Welcome to **Python-for-DataScience** 🚀
+This repository is a **complete beginner-to-advanced course** that walks you through Python programming and its applications in **Data Science, Machine Learning, and AI**.
 
-## 🛠️ How to Use
+The repo is structured like a course with **Jupyter notebooks**, explanations, and practical exercises.
 
-1. Open each folder to find `.py` files with examples.
-2. Try running the code in a Python editor like Jupyter, or VSCode.
-3. Practice editing and experimenting!
+---
+
+## 📚 Course Outline
+
+### 1. Python Basics
+
+* Introduction to Python & Variables
+* Data Types (Strings, Numbers, Booleans)
+* Lists, Tuples, Sets, and Dictionaries
+* Conditional Statements & Loops
+* Functions & Scope
+* File Handling
+
+### 2. Intermediate Python
+
+* Object-Oriented Programming (OOP)
+* Modules & Packages
+* Error Handling
+* Iterators & Generators
+* Pythonic Programming (Comprehensions, `lambda`, `map`, `filter`, `zip`)
+
+### 3. Data Science Foundations
+
+* **NumPy**: Arrays, Indexing, Broadcasting, Math Operations
+* **Pandas**: Series, DataFrames, Cleaning, Transformation, GroupBy, Merging
+* **Matplotlib & Seaborn**: Data Visualization
+
+### 4. Statistics & Probability for Data Science
+
+* Descriptive Statistics
+* Probability Distributions (Normal, Binomial, Poisson, etc.)
+* Hypothesis Testing
+* Correlation & Covariance
+
+### 5. Machine Learning (Intro)
+
+* Supervised Learning (Regression, Classification)
+* Unsupervised Learning (Clustering, Dimensionality Reduction)
+* Model Evaluation (Train/Test Split, Cross-Validation, Metrics)
+
+
+
+## 🔧 How to Use
+
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/SudhaMsr/Python-for-DataScience.git
+   cd Python-for-DataScience
+   ```
+2. Install requirements (if provided):
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Open notebooks in Jupyter Lab or VSCode:
+
+   ```bash
+   jupyter lab
+   ```
+
+---
+
+## 🎯 Who Is This For?
+
+* Beginners starting with Python
+* Students preparing for **Data Science / ML interviews**
+* Anyone who wants a **hands-on Python refresher**
+
 
 Happy learning! 💻🔥
