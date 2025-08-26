@@ -12,7 +12,7 @@ The repo is structured like a course with **Jupyter notebooks**, explanations, a
 
 ## 📚 Course Outline
 
-### 1. Python Basics
+### 1. Python Basics - https://github.com/SudhaMsr/Python-Baiscs
 
 * Introduction to Python & Variables
 * Data Types (Strings, Numbers, Booleans)
